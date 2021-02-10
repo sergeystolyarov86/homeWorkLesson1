@@ -1,5 +1,4 @@
-public class Homework {
- 
+public class Main {
     byte A = -128;
     short B = -32678;
     int C = 1000000;
@@ -60,6 +59,12 @@ public class Homework {
         }
     }
 }
+
+
+
+
+
+
 
 
 
